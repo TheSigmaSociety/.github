@@ -3,7 +3,7 @@
 Normal during the day, Sigma during the night. 
 
 
-#### 💸 Earnings: $95
+#### 💸 Earnings: $584 + Most recent earnings
 
 
 
