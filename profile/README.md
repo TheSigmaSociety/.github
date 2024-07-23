@@ -39,7 +39,7 @@ Entry level hackathon team based in Redmond, WA
 
 - Legacy  
 
-    🙊 Dharveen Suntheresen
+    🙊 Dharveen Suntheresen  
     👌 Savannah Garrard
 
 
