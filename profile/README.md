@@ -33,11 +33,12 @@ Entry level hackathon team based in Redmond, WA
 
 - Presentation / Misc.  
     
-    👌 Savannah Garrard
+    N/A
+
 - Legacy  
 
     🙊 Dharveen Suntheresen
-
+    👌 Savannah Garrard
 
 
 #### Infinite profits. Infinite wins.
