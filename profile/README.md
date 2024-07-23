@@ -44,3 +44,4 @@ Entry level hackathon team based in Redmond, WA
 
 
 #### Infinite profits. Infinite wins.
+###### TheSigmaSociety is a subsidary of H.A.R. Industries.
