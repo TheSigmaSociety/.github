@@ -1,12 +1,13 @@
 # Sigmas make their own fate.
 
 Normal during the day, Sigma during the night. 
-## 🕒 Upcoming Event: Hackabyte's Summer Weeklong Hackathon (online) // 7.27-8.3
+## 🕒 Upcoming Event: EmP 2024 Fall Hackfest // 9/7 - 9/8
 
 ## 💸 Legacy Earnings ***(in cash prizes)***: $584
 > $60 | EmP Spring Hackfest <**division 2nd place**>  
 > $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon <**honorable mention**>  
-> TBD | Hackabyte's Summer Hackathon (in person) <**honorable mention**>  
+> TBD | Hackabyte's Summer Hackathon (in person) <**honorable mention**>
+> Judging Ongoing | Hackabyte's Summer Hackathon (online) 
 
 
 ## 🗿 About Us
