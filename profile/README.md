@@ -1,7 +1,7 @@
 # Sigmas make their own fate.
 
 Normal during the day, Sigma during the night. 
-## 🕒 Upcoming Event: EmP 2024 Fall Hackfest // 9/7 - 9/8
+## 🕒 Upcoming Event: EMP 2024 Fall Hackfest (9/7 - 9/8)
 
 ## 💸 Legacy Earnings ***(in cash prizes)***: $584
 > $60 | EmP Spring Hackfest <**division 2nd place**>  
