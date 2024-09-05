@@ -14,8 +14,9 @@ Normal during the day, Sigma during the night.
 Entry level hackathon team based in Redmond, WA  
 
 
-
-
+## 🤓 Our Hackathon Organizations
+<a href="https://emphackfest.org/">EMP</a> <br>
+<a href="https://www.hackabyte.org/">Hackabyte</a>
 
 
 ## 🤫Current Roster
