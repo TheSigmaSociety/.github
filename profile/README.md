@@ -23,24 +23,24 @@ Entry level hackathon team based in Redmond, WA
 
 - Frontend
 
-    ⚧️ Tejas Panja
+    ⚧️ Tejas Panja (Only front end dev in Washington state)
 
 - Backend
 
-    🧏‍♂️ Ishan Sharma
+    🧏‍♂️ Ishan Sharma (The sigma who walks the streets)
 
 - Hybrid
 
-    🐐 Omkar Page  
-    🐈 Hugo Huang
+    🐐 Omkar Page (Only known for programming lead) 
+    🐈 Hugo Huang (Furry)
 
 - Presentation / Misc.  
     
-    🙉 Dharveen Suntheresen  
+    🙉 Dharveen Suntheresen (Monkey)
 
 - Legacy  
 
-    👌 Savannah Garrard
+    👌 Savannah Garrard (Presentation goat)
 
 
 #### Infinite profits. Infinite wins.
