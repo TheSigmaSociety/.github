@@ -31,7 +31,7 @@ Entry level hackathon team based in Redmond, WA
 
 - Hybrid
 
-    🐐 Omkar Page (Only known for programming lead) 
+    🐐 Omkar Page (Only known for programming lead) <br>
     🐈 Hugo Huang (Furry)
 
 - Presentation / Misc.  
