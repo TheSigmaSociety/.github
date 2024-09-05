@@ -27,7 +27,7 @@ Entry level hackathon team based in Redmond, WA
 
 - Backend
 
-    🧏‍♂️ Ishan Sharma (The sigma who walks the streets)
+    🧏‍♂️ Ishan Sharma (The bane of Houston)
 
 - Hybrid
 
