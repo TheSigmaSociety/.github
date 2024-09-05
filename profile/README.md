@@ -6,7 +6,7 @@ Normal during the day, Sigma during the night.
 ## 💸 Legacy Earnings ***(in cash prizes)***: $584
 > $60 | EmP Spring Hackfest <**division 2nd place**>  
 > $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon <**honorable mention**>  
-> TBD | Hackabyte's Summer Hackathon (in person) <**honorable mention**>
+> TBD | Hackabyte's Summer Hackathon (in person) <**honorable mention**> <br>
 > Judging Ongoing | Hackabyte's Summer Hackathon (online) 
 
 
