@@ -1,8 +1,9 @@
-# Sigmas make their own fate.
+# ✨Sigmas walk among the stars✨
 
 Normal during the day, Sigma during the night. 
-## 🕒 Upcoming Event: EMP 2024 Fall Hackfest (9/7 - 9/8)
 
+## 🎖️ Accolades K/D: (5/0) FLAWLESS RECORD
+## 🕒 Upcoming Event: TBD
 ## 💸 Legacy Earnings ***(in cash prizes)***: $644
 > $60 | EmP Spring Hackfest <**division 2nd place**>  
 > $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon <**honorable mention**>  
@@ -25,16 +26,17 @@ Entry level hackathon team based in Redmond, WA
 
 - Frontend
 
-    ⚧️ Tejas Panja (Only front end dev in Washington state)
+    ⚧️ Tejas Panja (The only frontend dev in the PNW)
 
 - Backend
-
-    🧏‍♂️ Ishan Sharma (The bane of Houston)
+  
+    🐈 Hugo Huang (Furry)  
+    
 
 - Hybrid
 
     🐐 Omkar Page (Only known for programming lead) <br>
-    🐈 Hugo Huang (Furry)
+    🧏‍♂️ Ishan Sharma (The bane of Mr. Houston)
 
 - Presentation / Misc.  
     
@@ -45,5 +47,4 @@ Entry level hackathon team based in Redmond, WA
     👌 Savannah Garrard (Presentation goat)
 
 
-#### Infinite profits. Infinite wins.
-###### TheSigmaSociety is a subsidary of H.A.R. Industries.
+###### TheSigmaSociety is a subsidiary of H.A.R. Industries.
