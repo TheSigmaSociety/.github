@@ -8,6 +8,7 @@ Normal during the day, Sigma during the night.
 > $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon <**honorable mention**>  
 > TBD | Hackabyte's Summer Hackathon <**honorable mention**> <br>
 > TBD | Hackabyte's Summer Online Hackathon <**2nd place overall**> <br>
+> $60 | EmP Summer Hackfest <**division 3rd place**>
 
 
 ## 🗿 About Us
