@@ -3,7 +3,7 @@
 Normal during the day, Sigma during the night. 
 ## 🕒 Upcoming Event: EMP 2024 Fall Hackfest (9/7 - 9/8)
 
-## 💸 Legacy Earnings ***(in cash prizes)***: $584
+## 💸 Legacy Earnings ***(in cash prizes)***: $644
 > $60 | EmP Spring Hackfest <**division 2nd place**>  
 > $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon <**honorable mention**>  
 > TBD | Hackabyte's Summer Hackathon <**honorable mention**> <br>
