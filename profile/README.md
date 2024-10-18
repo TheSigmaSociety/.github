@@ -1,6 +1,6 @@
-# ✨Sigmas walk among the stars✨
+# ✨Sigma Society walks among the stars✨
 
-Normal during the day, Sigma during the night. 
+Old sigmas never die -- they just go out of scope.
 
 ## 🎖️ Accolades K/D: (5/0) FLAWLESS RECORD
 ## 🕒 Upcoming Event: TBD
