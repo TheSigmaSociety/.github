@@ -1,14 +1,14 @@
 # ✨Sigma Society walks among the stars✨
 
-Old sigmas never die -- they just go out of scope.
+To infinity and beyond. 
 
 ## 🎖️ Accolades K/D: (5/0) FLAWLESS RECORD
 ## 🕒 Upcoming Event: TBD
-## 💸 Legacy Earnings ***(in cash prizes)***: $644
+## 💸 Legacy Earnings ***(in cash prizes)***: $843
 > $60 | EmP Spring Hackfest <**division 2nd place**>  
 > $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon <**honorable mention**>  
-> TBD | Hackabyte's Summer Hackathon <**honorable mention**> <br>
-> TBD | Hackabyte's Summer Online Hackathon <**2nd place overall**> <br>
+> $199 Sponsor subscription  | Hackabyte's Summer Hackathon <**honorable mention**> <br>
+> $175 | Hackabyte's Summer Online Hackathon <**2nd place overall**> <br>
 > $60 | EmP Summer Hackfest <**division 3rd place**>
 
 
