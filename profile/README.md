@@ -5,11 +5,11 @@ To infinity and beyond.
 ## 🎖️ Accolades K/D: (5/0) FLAWLESS RECORD
 ## 🕒 Upcoming Event: TBD
 ## 💸 Legacy Earnings ***(in cash prizes)***: $843
-> $60 | EmP Spring Hackfest <**division 2nd place**>  
-> $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon <**honorable mention**>  
-> $199 Sponsor subscription  | Hackabyte's Summer Hackathon <**honorable mention**> <br>
-> $175 | Hackabyte's Summer Online Hackathon <**2nd place overall**> <br>
-> $60 | EmP Summer Hackfest <**division 3rd place**>
+> $60 | EmP Spring Hackfest <**division 2nd place**> - Priority Planner
+> $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon <**honorable mention**> - Class Companion
+> $199 Sponsor subscription  | Hackabyte's Summer Hackathon <**honorable mention**> <br> - Senior Steps
+> $175 | Hackabyte's Summer Online Hackathon <**2nd place overall**> <br> - Sustainability Scanner
+> $60 | EmP Summer Hackfest <**division 3rd place**> - Planet Pathfinder
 
 
 ## 🗿 About Us
