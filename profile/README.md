@@ -26,17 +26,17 @@ Entry level hackathon team based in Redmond, WA
 
 - Frontend
 
-    ⚧️ Tejas Panja (The only frontend dev in the PNW)
+    ⚧️ <a href="https://github.com/TejasDoesStuff">Tejas Panja</a> (The only frontend dev in the PNW)
 
 - Backend
   
-    🐈 Hugo Huang (Furry)  
+    🐈 <a href="https://github.com/ilovecrayons">Hugo Huang</a> (Furry)  
     
 
 - Hybrid
 
-    🐐 Omkar Page (Only known for programming lead) <br>
-    🧏‍♂️ Ishan Sharma (The bane of Mr. Houston)
+    🐐 <a href="https://github.com/datboi-212">Omkar Page</a> (Only known for programming lead) <br>
+    🧏‍♂️ <a href="https://github.com/gamedoescool">Ishan Sharma</a> (The bane of Mr. Houston)
 
 - Presentation / Misc.  
     
