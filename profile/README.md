@@ -3,7 +3,7 @@
 To infinity and beyond. 
 
 ## 🎖️ Accolades K/D: (5/0) FLAWLESS RECORD
-## 🕒 Upcoming Event: TBD
+## 🕒 Upcoming Event: EMP Winter Hackfest (Feb 16-17)
 ## 💸 Legacy Earnings ***(in cash prizes)***: $843
 > $60 | EmP Spring Hackfest <**division 2nd place**> - **Priority Planner** <br>
 > $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon <**honorable mention**> - **Class Companion** <br>
@@ -30,7 +30,8 @@ Entry level hackathon team based in Redmond, WA
 
 - Backend
   
-    🐈 <a href="https://github.com/ilovecrayons">Hugo Huang</a> (Furry)  
+    🐈 <a href="https://github.com/ilovecrayons">Hugo Huang</a> (Furry)
+    ✝️ <a href="https://github.com/not-varram>Varshith Satti Reddy</a> (Jesus Christ)  
     
 
 - Hybrid
@@ -38,12 +39,10 @@ Entry level hackathon team based in Redmond, WA
     🐐 <a href="https://github.com/datboi-212">Omkar Page</a> (Only known for programming lead) <br>
     🧏‍♂️ <a href="https://github.com/gamedoescool">Ishan Sharma</a> (The bane of Mr. Houston)
 
-- Presentation / Misc.  
     
-    🙉 Dharveen Suntheresen (Monkey)
-
 - Legacy  
 
+    🙉 Dharveen Suntheresen (Monkey)
     👌 Savannah Garrard (Presentation goat)
 
 
