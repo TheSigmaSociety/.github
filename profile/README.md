@@ -30,8 +30,8 @@ Entry level hackathon team based in Redmond, WA
 
 - Backend
   
-    🐈 <a href="https://github.com/ilovecrayons">Hugo Huang</a> (Furry)
-    ✝️ <a href="https://github.com/not-varram">Varshith Satti Reddy</a> (Jesus Christ)  
+    🐈 <a href="https://github.com/ilovecrayons">Hugo Huang</a> (Furry) </br>
+    ✝️ <a href="https://github.com/not-varram">Varshith Satti Reddy</a> (Jesus Christ)
     
 
 - Hybrid
