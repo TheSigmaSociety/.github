@@ -42,7 +42,7 @@ Entry level hackathon team based in Redmond, WA
     
 - Legacy  
 
-    🙉 Dharveen Suntheresen (Monkey)
+    🙉 Dharveen Suntheresen (Monkey) </br>
     👌 Savannah Garrard (Presentation goat)
 
 
