@@ -26,7 +26,7 @@ Entry level hackathon team based in Redmond, WA
 
 - Frontend
 
-    🗿 <a href="https://github.com/TejasDoesStuff">Tejas Panja</a> (The only frontend dev in the PNW)
+    📺 <a href="https://github.com/TejasDoesStuff">Tejas Panja</a> (The only frontend dev in the PNW)
 
 - Backend
   
