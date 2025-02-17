@@ -1,6 +1,6 @@
 # ✨Sigma Society guides you into the light✨
 
-To infinity and beyond. 
+Across the darkened city skyline. 
 
 ## 🎖️ Accolades K/D: (5/0) FLAWLESS RECORD
 ## 🕒 Upcoming Event: EMP Winter Hackfest (Feb 16-17)
