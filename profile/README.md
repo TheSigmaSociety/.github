@@ -1,4 +1,4 @@
-# ✨Sigma Society walks among the stars✨
+# ✨Sigma Society guides you into the light✨
 
 To infinity and beyond. 
 
