@@ -2,8 +2,8 @@
 
 Across the darkened city skyline. 
 
-## 🎖️ Accolades K/D: (5/0) FLAWLESS RECORD
-## 🕒 Upcoming Event: EMP Winter Hackfest (Feb 16-17)
+## 🎖️ Accolades K/D: (5/1) generational robbery.
+## 🕒 Upcoming Event: TBD
 ## 💸 Legacy Earnings ***(in cash prizes)***: $843
 > $60 | EmP Spring Hackfest <**division 2nd place**> - **Priority Planner** <br>
 > $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon <**honorable mention**> - **Class Companion** <br>
