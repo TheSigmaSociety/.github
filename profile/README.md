@@ -1,15 +1,16 @@
-# ✨Sigma Society guides you into the light✨
+# ✨Sigma Society deliberately starves your children✨
 
-Across the darkened city skyline. 
+if you don't tell them to becomem good little dogs and eat their veggies. 
 
-## 🎖️ Accolades K/D: (5/1) generational robbery.
-## 🕒 Upcoming Event: TBD
+## 🎖️ Accolades K/D: (6/1) ts pmo sm icl.
+## 🕒 Upcoming Event: UWB Hacks 4/25-4/27
 ## 💸 Legacy Earnings ***(in cash prizes)***: $843
 > $60 | EmP Spring Hackfest <**division 2nd place**> - **Priority Planner** <br>
 > $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon <**honorable mention**> - **Class Companion** <br>
 > $199 Sponsor subscription  | Hackabyte's Summer Hackathon <**honorable mention**> - **Senior Steps** <br>
 > $175 | Hackabyte's Summer Online Hackathon <**2nd place overall**> - **Sustainability Scanner** <br>
 > $60 | EmP Summer Hackfest <**division 3rd place**> - **Planet Pathfinder**
+> $50 | Hackabyte's Spring hackathon <**5th place**> - **PlatePredict** <br>  
 
 
 ## 🗿 About Us
