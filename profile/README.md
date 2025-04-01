@@ -1,10 +1,10 @@
-# ✨Sigma Society deliberately starves your children✨
+# 🍰Sigma Society deliberately starves your children🍰
 
-if you don't tell them to becomem good little dogs and eat their veggies. 
+if you don't tell them to become good little dogs and eat their veggies. 
 
 ## 🎖️ Accolades K/D: (6/1) ts pmo sm icl.
 ## 🕒 Upcoming Event: UWB Hacks 4/25-4/27
-## 💸 Legacy Earnings ***(in cash prizes)***: $843
+## 💸 Legacy Earnings ***(in cash prizes)***: $893
 > $60 | EmP Spring Hackfest <**division 2nd place**> - **Priority Planner** <br>
 > $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon <**honorable mention**> - **Class Companion** <br>
 > $199 Sponsor subscription  | Hackabyte's Summer Hackathon <**honorable mention**> - **Senior Steps** <br>
