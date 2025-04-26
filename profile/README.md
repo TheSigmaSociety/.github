@@ -37,6 +37,7 @@ Entry level hackathon team based in Redmond, WA
 
 - Hybrid
 
+    😖 <a href="https://github.com/realnick00111">Nicholas Janson</a> (Special) <br>
     🐐 <a href="https://github.com/datboi-212">Omkar Page</a> (Only known for programming lead) <br>
     🧏‍♂️ <a href="https://github.com/gamedoescool">Ishan Sharma</a> (The bane of Mr. Houston)
 
