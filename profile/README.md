@@ -7,7 +7,7 @@
 > $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon 2024 <**honorable mention**> - **ClassCompanion** <br>
 > $199 Sponsor subscription  | Hackabyte's Summer Hackathon 2024 <**honorable mention**> - **SeniorSteps** <br>
 > $175 | Hackabyte's Summer Online Hackathon 2024 <**2nd place overall**> - **SustainabilityScanner** <br>
-> $60 | EmP Summer Hackfest 2024 <**division 3rd place**> - **PlanetPathfinder**
+> $60 | EmP Summer Hackfest 2024 <**division 3rd place**> - **PlanetPathfinder** <br>
 > $0 | EmP Spring Hackathon 2025 <**GENERATIONAL ROBBERY 😭🙏**> - **Beacon** <br>
 > $50 | Hackabyte's Spring hackathon 2025 <**5th place**> - **PlatePredict** <br>
 > $0 | University of Washington Bothell Summer Hackathon 2025 <**Nothing😭**> - **ConsumerCompass** <br>
