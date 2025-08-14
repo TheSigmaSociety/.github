@@ -1,16 +1,17 @@
 # Sigma Society Hackathons
 
-## 🎖️ Win/Loss (6-1)
+## 🥇 W/L (7-2)
 ## 🕒 Upcoming Event: EMP Summer Hackathon 2025 (Sept 6-7)
 ## 💸 Legacy Earnings ***(in cash prizes)***: $2893
-> $60 | EmP Spring Hackfest <**division 2nd place**> - **Priority Planner** <br>
-> $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon <**honorable mention**> - **Class Companion** <br>
-> $199 Sponsor subscription  | Hackabyte's Summer Hackathon <**honorable mention**> - **Senior Steps** <br>
-> $175 | Hackabyte's Summer Online Hackathon <**2nd place overall**> - **Sustainability Scanner** <br>
-> $60 | EmP Summer Hackfest <**division 3rd place**> - **Planet Pathfinder**
-> $50 | Hackabyte's Spring hackathon <**5th place**> - **PlatePredict** <br>
-> $0 | University of Washington Bothell Summer Hackathon <**Nothing😭**> - **ConsumerCompass** <br>
-> $2000 in Summer Program Vouchers | KCLS Redmond Library Hackathon <**1st Place**> - **Decode**     
+> $60 | EmP Spring Hackfest 2024 <**division 2nd place**> - **PriorityPlanner** <br>
+> $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon 2024 <**honorable mention**> - **ClassCompanion** <br>
+> $199 Sponsor subscription  | Hackabyte's Summer Hackathon 2024 <**honorable mention**> - **SeniorSteps** <br>
+> $175 | Hackabyte's Summer Online Hackathon 2024 <**2nd place overall**> - **SustainabilityScanner** <br>
+> $60 | EmP Summer Hackfest 2024 <**division 3rd place**> - **PlanetPathfinder**
+> $0 | EmP Spring Hackathon 2025 <**GENERATIONAL ROBBERY 😭🙏**> - **Beacon** <br>
+> $50 | Hackabyte's Spring hackathon 2025 <**5th place**> - **PlatePredict** <br>
+> $0 | University of Washington Bothell Summer Hackathon 2025 <**Nothing😭**> - **ConsumerCompass** <br>
+> $2000 in Summer Program Vouchers | KCLS Redmond Library Hackathon 2025 <**1st Place**> - **Decode**     
 
 
 
