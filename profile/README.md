@@ -11,7 +11,8 @@
 > $0 | EmP Spring Hackathon 2025 <**GENERATIONAL ROBBERY 😭🙏**> - **Beacon** <br>
 > $50 | Hackabyte's Spring hackathon 2025 <**5th place**> - **PlatePredict** <br>
 > $0 | University of Washington Bothell Summer Hackathon 2025 <**Nothing😭**> - **ConsumerCompass** <br>
-> $2000 in Summer Program Vouchers | KCLS Redmond Library Hackathon 2025 <**1st Place**> - **Decode**     
+> $2000 in Summer Program Vouchers | KCLS Redmond Library Hackathon 2025 <**1st Place**> - **Decode** <br>
+> $ TBD | EmP Summer Hackfest 2025 <**Most Innovative**> - **Disaster Desk**  
 
 
 
@@ -30,24 +31,24 @@ Entry level hackathon team based in Redmond, WA
 
 - Frontend
 
-    📺 <a href="https://github.com/TejasDoesStuff">Tejas Panja</a> 
+    📺 <a href="https://github.com/TejasDoesStuff">Tejas Panja</a> - Co-founder
 
 - Backend
   
-    🐈 <a href="https://github.com/ilovecrayons">Hugo Huang</a> </br>
+    🐈 <a href="https://github.com/ilovecrayons">Hugo Huang</a> </br> - Co-Founder
     ✝️ <a href="https://github.com/not-varram">Varshith Satti Reddy</a> 
     
 
 - Hybrid
 
     😖 <a href="https://github.com/realnick00111">Nicholas Janson</a> <br>
-    🐐 <a href="https://github.com/datboi-212">Omkar Page</a> <br>
-    🧏‍♂️ <a href="https://github.com/gamedoescool">Ishan Sharma</a> 
+    🐐 <a href="https://github.com/datboi-212">Omkar Page</a> <br> - Co-Founder
+    🧏‍♂️ <a href="https://github.com/gamedoescool">Ishan Sharma</a> - Co-Founder
 
     
 - Legacy  
 
-    🙉 Dharveen Suntheresen </br>
+    🙉 Dharveen Suntheresen </br> - Co-Founder
     👌 Savannah Garrard 
 
 
