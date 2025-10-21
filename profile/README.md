@@ -35,20 +35,20 @@ Entry level hackathon team based in Redmond, WA
 
 - Backend
   
-    🐈 <a href="https://github.com/ilovecrayons">Hugo Huang</a> </br> - Co-Founder
+    🐈 <a href="https://github.com/ilovecrayons">Hugo Huang</a> - Co-Founder </br> 
     ✝️ <a href="https://github.com/not-varram">Varshith Satti Reddy</a> 
     
 
 - Hybrid
 
     😖 <a href="https://github.com/realnick00111">Nicholas Janson</a> <br>
-    🐐 <a href="https://github.com/datboi-212">Omkar Page</a> <br> - Co-Founder
+    🐐 <a href="https://github.com/datboi-212">Omkar Page</a> - Co-Founder  <br>
     🧏‍♂️ <a href="https://github.com/gamedoescool">Ishan Sharma</a> - Co-Founder
 
     
 - Legacy  
 
-    🙉 Dharveen Suntheresen </br> - Co-Founder
+    🙉 Dharveen Suntheresen - Co-Founder </br>
     👌 Savannah Garrard 
 
 
