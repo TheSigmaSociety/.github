@@ -1,7 +1,7 @@
 # Sigma Society Hackathons
 
 ## 🥇 W/L (7-2)
-## 🕒 Upcoming Event: EMP Summer Hackathon 2025 (Sept 6-7)
+## 🕒 Upcoming Event: TBD...
 ## 💸 Legacy Earnings ***(in cash prizes)***: $2893
 > $60 | EmP Spring Hackfest 2024 <**division 2nd place**> - **PriorityPlanner** <br>
 > $20 + $42x12mo sponsor subscription | Hackabyte's Spring Hackathon 2024 <**honorable mention**> - **ClassCompanion** <br>
